@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dular Nikode
 - 👀 I’m interested in solving problems using Technology
 - :) I'm skilled in React ,Typescript ,Java ,*AWS Certified Cloud Practioner 
-- 🌱 I’m currently learning AWS and new backend technologies(SPRING Boot)
+- 🌱 I’m currently learning AWS and backend technologies (Node and Express Js)
 - 💞️ I’m looking to collaborate on OpenSource and StartUp Projects
 - 📫 Reach me at dualrnikode1@gmail.com
 
